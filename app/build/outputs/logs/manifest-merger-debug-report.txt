@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:2:1-101:12
+	package
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] /Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:13:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:18:22-78
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:19:22-79
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:20:5-70
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:20:22-68
+permission#com.tapjoy.easyapp.permission.C2D_MESSAGE
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:21:5-23:44
+	android:protectionLevel
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:23:7-42
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:22:7-63
+uses-permission#com.tapjoy.easyapp.permission.C2D_MESSAGE
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:24:22-78
+application
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:26:5-99:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] /Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:27:9-38
+meta-data#com.google.android.gms.version
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:29:9-31:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:31:13-66
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:30:13-58
+activity#com.tapjoy.easyapp.TapjoyEasyApp
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:33:9-44:20
+	android:label
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:36:13-45
+	android:launchMode
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:37:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:39:13-54
+	android:configChanges
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:35:13-74
+	android:theme
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:38:13-54
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:34:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:40:13-43:29
+action#android.intent.action.MAIN
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:42:27-74
+activity#com.tapjoy.easyapp.EventActivity
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:45:9-50:57
+	android:launchMode
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:48:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:50:13-54
+	android:configChanges
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:47:13-74
+	android:theme
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:49:13-54
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:46:13-42
+activity#com.tapjoy.easyapp.UserActivity
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:51:9-56:57
+	android:launchMode
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:54:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:56:13-54
+	android:configChanges
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:53:13-74
+	android:theme
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:55:13-54
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:52:13-41
+activity#com.tapjoy.TJAdUnitActivity
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:59:9-63:50
+	android:hardwareAccelerated
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:63:13-47
+	android:configChanges
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:61:13-74
+	android:theme
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:62:13-83
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:60:13-55
+activity#com.tapjoy.TJContentActivity
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:64:9-68:50
+	android:hardwareAccelerated
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:68:13-47
+	android:configChanges
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:66:13-74
+	android:theme
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:67:13-72
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:65:13-56
+activity#com.tapjoy.mraid.view.ActionHandler
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:69:9-71:77
+	android:configChanges
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:71:13-74
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:70:13-63
+activity#com.tapjoy.mraid.view.Browser
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:72:9-74:77
+	android:configChanges
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:74:13-74
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:73:13-57
+receiver#com.tapjoy.InstallReferrerReceiver
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:76:9-82:20
+	android:exported
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:78:13-36
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:77:13-62
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:79:13-81:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:80:17-79
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:80:25-76
+receiver#com.tapjoy.GCMReceiver
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:83:9-93:20
+	android:permission
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:85:13-73
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:84:13-50
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+com.google.android.gcm.intent.RETRY+com.tapjoy.easyapp
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:86:13-92:29
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:87:17-86
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:87:25-83
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:88:17-81
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:88:25-78
+action#com.google.android.gcm.intent.RETRY
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:89:17-78
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:89:25-75
+category#com.tapjoy.easyapp
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:91:17-63
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:91:27-60
+receiver#com.tapjoy.TapjoyReceiver
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:94:9-62
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:94:19-59
+meta-data#com.tapjoy.notification.icon.large
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:96:9-109
+	android:resource
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:96:70-107
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:96:20-69
+meta-data#com.tapjoy.notification.icon
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:97:9-104
+	android:resource
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:97:64-102
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:97:20-63
+meta-data#com.tapjoy.notification.icon.compat
+ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:98:9-106
+	android:resource
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:98:71-104
+	android:name
+		ADDED from /Users/klakier/Downloads/TapjoyTest/app/src/main/AndroidManifest.xml:98:20-70
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:20:19-85

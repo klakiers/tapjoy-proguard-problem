@@ -1,0 +1,33 @@
+# view AndroidManifest.xml #generated:109
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:86
+-keep class com.tapjoy.GCMReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class com.tapjoy.InstallReferrerReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class com.tapjoy.TJAdUnitActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:67
+-keep class com.tapjoy.TJContentActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:97
+-keep class com.tapjoy.TapjoyReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class com.tapjoy.easyapp.EventActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.tapjoy.easyapp.TapjoyEasyApp { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class com.tapjoy.easyapp.UserActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:72
+-keep class com.tapjoy.mraid.view.ActionHandler { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class com.tapjoy.mraid.view.Browser { <init>(...); }
+

@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.tapjoy.easyapp"
+        minSdkVersion 9
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+        debug {
+            minifyEnabled true
+            proguardFiles 'proguard-project-debug.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.google.android.gms:play-services-base:+'
+    compile files('libs/tapjoyconnectlibrary.jar')
+}

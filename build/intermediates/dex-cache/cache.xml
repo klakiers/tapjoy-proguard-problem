@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/klakier/Downloads/TapjoyTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.4.0_fcdad9fb361ed8297f325e89a312e3a8f5b077e7.jar" />
+    </item>
+    <item
+        jar="/Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/klakier/Downloads/TapjoyTest/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_c1fff4410ac9005208280a2b16ee288c01330c19.jar" />
+    </item>
+    <item
+        jar="/Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/klakier/Downloads/TapjoyTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_d9d12ad3c2e425d849ea8efe7c8f359291539dfa.jar" />
+    </item>
+    <item
+        jar="/Users/klakier/Downloads/TapjoyTest/app/libs/tapjoyconnectlibrary.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5d839e57edfc54707e8002992dc2c2f486d9cf12">
+        <dex dex="/Users/klakier/Downloads/TapjoyTest/app/build/intermediates/pre-dexed/debug/tapjoyconnectlibrary_730441400e1996238ba629733841f25837536f19.jar" />
+    </item>
+    <item
+        jar="/Applications/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/klakier/Downloads/TapjoyTest/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_d97d958f7b9e66eb37023ba9809e07b368e577ed.jar" />
+    </item>
+    <item
+        jar="/Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/klakier/Downloads/TapjoyTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_92b463c1c29c7b2c4cfb45f0c24f1beada1e096a.jar" />
+    </item>
+    <item
+        jar="/Users/klakier/Downloads/TapjoyTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/klakier/Downloads/TapjoyTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_796d4554940c4506ac3bd7bce6e7e836a5106ba3.jar" />
+    </item>
+
+</items>
